@@ -75,7 +75,7 @@ This project is a great demonstration of:
 
 ## 📎 License
 
-This project is for educational and portfolio purposes. Dataset credit goes to [original source if available].
+This project is for educational and portfolio purposes. Dataset credit goes to [https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv].
 
 ---
 
